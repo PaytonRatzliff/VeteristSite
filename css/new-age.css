@@ -456,6 +456,10 @@ h3.doc_title {
 	text-align: center;
 }
 
+h3.feature-header {
+	color: black;
+}
+
 img.iphone-img {
 	height: 667px;
 	width: 375px;
@@ -472,4 +476,14 @@ div.team {
 	text-align: center;
 	margin-left: 5px;
 	margin-right: 5px;
+}
+
+img.device-img {
+	height: 450px;
+	width: 256px;
+}
+
+img.device-img-big {
+	height: 100%;
+	width: 100%;
 }
