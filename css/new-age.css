@@ -487,3 +487,7 @@ img.device-img-big {
 	height: 100%;
 	width: 100%;
 }
+
+i.black-background {
+	background: black;
+}
